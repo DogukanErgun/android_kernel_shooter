@@ -397,12 +397,9 @@ CONFIG_MSM_RPC_OEM_RAPI=y
 CONFIG_MSM_RMT_STORAGE_CLIENT=y
 # CONFIG_MSM_RMT_STORAGE_CLIENT_STATS is not set
 CONFIG_MSM_DALRPC=y
-<<<<<<< HEAD:arch/arm/configs/shooter_defconfig
 CONFIG_GPU_OVERCLOCK=y
 CONFIG_CPU_VOLTAGE_TABLE=y
-=======
 # CONFIG_MSM_DALRPC_TEST is not set
->>>>>>> acaa5fb... Sultan_defconfig: Update for new audio drivers:arch/arm/configs/Sultan_defconfig
 CONFIG_MSM_CPU_FREQ_SET_MIN_MAX=y
 CONFIG_MSM_CPU_FREQ_MAX=1512000
 CONFIG_MSM_CPU_FREQ_MIN=384000
@@ -446,13 +443,9 @@ CONFIG_MSM_PIL_QDSP6V3=y
 CONFIG_MSM_SCM=y
 CONFIG_MSM_SUBSYSTEM_RESTART=y
 CONFIG_MSM_SYSMON_COMM=y
-<<<<<<< HEAD:arch/arm/configs/shooter_defconfig
-CONFIG_MSM_BUSPM_DEV=y
-=======
 # CONFIG_MSM_BUSPM_DEV is not set
 # CONFIG_MSM_RPM_LOG is not set
 # CONFIG_MSM_RPM_STATS_LOG is not set
->>>>>>> acaa5fb... Sultan_defconfig: Update for new audio drivers:arch/arm/configs/Sultan_defconfig
 # CONFIG_MSM_IOMMU is not set
 CONFIG_MSM_DIRECT_SCLK_ACCESS=y
 CONFIG_MSM_GPIOMUX=y
@@ -478,11 +471,8 @@ CONFIG_MSM_QDSP6_APR=y
 CONFIG_MSM_QDSP6_CODECS=y
 # CONFIG_MSM_QDSP6V2_CODECS is not set
 # CONFIG_MSM_AUDIO_QDSP6 is not set
-<<<<<<< HEAD:arch/arm/configs/shooter_defconfig
 # CONFIG_RPC_VIBRATOR is not set
-=======
 # CONFIG_MSM_AUDIO_QDSP6V2 is not set
->>>>>>> acaa5fb... Sultan_defconfig: Update for new audio drivers:arch/arm/configs/Sultan_defconfig
 # CONFIG_MSM_RPC_VIBRATOR is not set
 # CONFIG_RPC_VER_60001 is not set
 CONFIG_MSM_SPM_V1=y
